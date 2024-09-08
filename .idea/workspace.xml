@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="042bf243-9cf8-4beb-9658-8889cc4205ef" name="Changes" comment="add tg">
+    <list default="true" id="042bf243-9cf8-4beb-9658-8889cc4205ef" name="Changes" comment="small improvement">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/friends/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/friends/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/games/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/games/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/home/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/home/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shop/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shop/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/tasks/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/tasks/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1725595416154</updated>
       <workItem from="1725595417222" duration="6797000" />
-      <workItem from="1725759269316" duration="3700000" />
+      <workItem from="1725759269316" duration="4471000" />
     </task>
     <task id="LOCAL-00001" summary="add tg">
       <option name="closed" value="true" />
@@ -103,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725762199639</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add tg">
+      <option name="closed" value="true" />
+      <created>1725763079439</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725763079439</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +121,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add tg" />
-    <option name="LAST_COMMIT_MESSAGE" value="add tg" />
+    <MESSAGE value="small improvement" />
+    <option name="LAST_COMMIT_MESSAGE" value="small improvement" />
   </component>
 </project>

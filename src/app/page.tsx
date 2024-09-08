@@ -11,7 +11,7 @@ export default function Home() {
 
   return (
       <div>
-          <h1 className="w-full capitalize text-4xl mx-auto text-center mt-10">Home Page</h1>
+          <h1 className="w-full capitalize text-4xl mx-auto text-center">Home Page</h1>
           <BottomBar/>
       </div>
   );
