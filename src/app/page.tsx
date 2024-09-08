@@ -1,6 +1,4 @@
-import Link from "next/link";
 import React from "react";
-import MyLink from "@/components/MyLink";
 import BottomBar from "@/components/bottomBar";
 
 export default function Home() {

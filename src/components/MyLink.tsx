@@ -1,5 +1,4 @@
 import Link from "next/link";
-import {Url} from "node:url";
 
 interface Props {
     url: string,
