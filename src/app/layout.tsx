@@ -15,15 +15,17 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+    <head>
+      <Script
+          src="https://telegram.org/js/telegram-web-app.js"
+          strategy="beforeInteractive"
+      />
+      <title>Create Next App</title>
+    </head>
     <body
         className={`antialiased`}
     >
     {children}
-    <Script
-        src="https://telegram.org/js/telegram-web-app.js"
-        strategy="beforeInteractive"
-    />
-
     </body>
     </html>
   );

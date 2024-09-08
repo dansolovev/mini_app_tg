@@ -1,11 +1,12 @@
 'use client'
 import React, {useEffect} from "react";
 import BottomBar from "@/components/bottomBar";
+import WebApp from "@twa-dev/sdk";
 
 export default function Home() {
     useEffect(() => {
-        window.Telegram.WebApp.ready();
-        window.Telegram.WebApp.expand();
+        WebApp.ready();
+        WebApp.expand();
     })
 
   return (
